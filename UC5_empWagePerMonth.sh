@@ -24,4 +24,4 @@ do
 		salary=$(($empHrs*$empRatePerHr));
 		totalSalary=$(($totalSalary+$salary));
 done
-echo $totalSalary
+echo $totalSalary;

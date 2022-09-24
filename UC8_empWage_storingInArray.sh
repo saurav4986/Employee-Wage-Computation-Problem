@@ -45,5 +45,5 @@ done
 
 totalSalary=$(($totalEmpHrs*$EMP_RATE_PER_HR));
 
-echo ${dailyWage[@]}
+echo ${dailyWage[@]};
 

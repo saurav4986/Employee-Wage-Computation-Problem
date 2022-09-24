@@ -3,7 +3,7 @@
 isPartTime=1;
 isFullTime=2;
 empRatePerHr=20;
-randomCheck=$(($RANDOM % 3))
+randomCheck=$(($RANDOM % 3));
 
 case $randomCheck in
 	$isFullTime)

@@ -16,4 +16,4 @@ else
 fi
 
 salary=$(($empHrs * $empRatePerHr))
-echo $salary
+echo $salary;
